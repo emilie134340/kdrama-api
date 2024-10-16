@@ -1,0 +1,26 @@
+{
+  "name": "kdrama-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilie134340/kdrama-api.git"
+  },
+  "author": "Emilie Mickelsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilie134340/kdrama-api/issues"
+  },
+  "homepage": "https://github.com/emilie134340/kdrama-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mongodb": "^6.9.0",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
